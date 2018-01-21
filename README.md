@@ -36,21 +36,33 @@ If you want to completely erase you're Drupal instance and start over, wipe your
 2) Go through the initial Drupal setup using the appropriate database parameters for your selected database:
 
 ## SQLite parameters
+
 Database type: SQLite
+
 Accept the default parameters after that.
 
 ## MySQL parameters
+
 Database type: MySQL, MariaDB, Percona Server, or equivalent
+
 Database name: drupal
+
 Database username: root
+
 Database password: example
+
 ADVANCED OPTIONS; Database host: mysql
 
 ## PostgreSQL parameters
+
 Database type: PostgreSQL
+
 Database name: postgres
+
 Database username: postgres
+
 Database password: example
+
 ADVANCED OPTIONS; Database host: postgres
 
 # Notes
